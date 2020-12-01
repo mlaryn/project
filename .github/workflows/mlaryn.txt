@@ -1,0 +1,10 @@
+M---M L---- ---A---
+MM-MM L---- --A-A--
+M-M-M L---- -A-A-A-
+M---M LLLLL A-----A
+   
+                   RRRR- Y-----Y N-----N
+                   R---R -Y---Y- NN----N
+                   RR-R- --Y-Y-- N-N---N
+                   R--R- ---Y--- N--N--N
+                   R---R ---Y--- N---NNN
